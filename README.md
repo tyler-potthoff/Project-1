@@ -13,3 +13,9 @@ This repository includes the files for Project #1
  3. Does humidity and temperature have a noticeable effect on air quality?
  4. Have there been any Air Quality Index (AQI) health risks (unhealthy for sensitive populations) at any of the locations in the dataset for PM 2.5 and PM 10 based on the EPA’s AQI ratings?
  5. Does the sensor altitude have an impact on the air quality values?
+
+## Solution
+### Step 1
+ - All data is grouped by sensor name
+ - The data is run through stastics of mean, median, max, and min
+ - The locations with the top 5 worst mean and median is found for PM2.5, PM10, and VOC
