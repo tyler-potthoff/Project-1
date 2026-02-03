@@ -5,7 +5,7 @@ This repository includes the files for Project #1
  - [Raw Data](AirQuality_Daily_StudentVersion.csv)
 
 ## Scope of Work
- - [SOW](Project #1 - 
+ - [SOW]((https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ftyler-potthoff%2FProject-1%2Frefs%2Fheads%2Fmain%2FProject%2520%25231%2520-%2520Scope%2520of%2520Work.docx&wdOrigin=BROWSELINK)
 
 ## Project Code
  - [Project Code](https://github.com/tyler-potthoff/Project-1/blob/main/Project%201%20Final%20Draft.ipynb)
