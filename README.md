@@ -44,7 +44,17 @@ This repository includes the files for Project #1
 
 ### Step 2
  - It is found that from three days in Broken Bow, from February 18th through February 20th, the maximum was recorded for PM2.5, PM10
- - After research, I found out that it was a super cold stretch of days that didn't have much precipitation
+ - After research, it was a super cold stretch of days that didn't have much precipitation
 
 ### Step 3
- - 
+ - For PM2.5 and PM10, it was found that below freezing and low humidity are key ingredients to a high value.
+ - The raw data is missing the data for the top five worst, but after research, it was below freezing with low humidity
+ - For VOC, warm and cool temperatures and low humidity impact the value to rise.
+
+### Step 4
+ - There was plenty of data for unhealthy events of AQI throughout the data and this caused the variety of reasons to be unpredictable.
+ - An error in the code could explain why a large sum of events could appear
+
+### Step 5
+ - It seems that the both medium and high altitudes were the only altitudes that appeared in the data for the worst 10 events for VOC, PM2.5, and PM10
+ - This concludes that low altitudes could impact the data to lower the values than they claim
