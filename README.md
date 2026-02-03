@@ -19,3 +19,18 @@ This repository includes the files for Project #1
  - All data is grouped by sensor name
  - The data is run through stastics of mean, median, max, and min
  - The locations with the top 5 worst mean and median is found for PM2.5, PM10, and VOC
+
+### Step 2
+ - The data is set from highest to lowest for the three variables
+ - It's sorted into categories: date, sensor name, and the max variable shown
+
+### Step 3
+ - Equations are made to separate the temperature and humidity into different sections to better differentiate the data
+ - The data is set from highest to lowest for each variable
+ - It's sorted into categories: sensor name, temperature level, humidity level, and the max variables
+
+### Step 4
+ - The data is cut to only unhealthy events from the data for PM2.5 and PM10
+ - It's then sorted into categories: sensor name, PM2.5, PM10, and the date
+
+### Step 5
