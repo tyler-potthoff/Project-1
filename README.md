@@ -25,7 +25,7 @@ This repository includes the files for Project #1
  - It's sorted into a table with categories: date, sensor name, and the max variable shown
 
 ### Step 3
- - Equations are made to separate the temperature and humidity into different sections to better differentiate the data
+ - Equations are made to separate the temperature and humidity into different sections to differentiate the data better
  - The data is set from highest to lowest for each variable
  - It's sorted into a table with categories: sensor name, temperature level, humidity level, and the max variables
 
@@ -43,5 +43,8 @@ This repository includes the files for Project #1
  - VOC shares the sensor ELVPHD Norfolk HD 4, but none of the same for the other four
 
 ### Step 2
- - It is found that from a three day stretch in Broken Bow, from February 18th through February 20th, recorded the max for PM2.5, PM10
- - After research, I found out that it was a super cold stretch of days that didn't have much 
+ - It is found that from three days in Broken Bow, from February 18th through February 20th, the maximum was recorded for PM2.5, PM10
+ - After research, I found out that it was a super cold stretch of days that didn't have much precipitation
+
+### Step 3
+ - 
