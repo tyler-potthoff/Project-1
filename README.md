@@ -49,7 +49,7 @@ This repository includes the files for Project #1
 ### Step 3
  - For PM2.5 and PM10, it was found that below freezing and low humidity are key ingredients to a high value.
  - The raw data is missing the data for the top five worst, but after research, it was below freezing with low humidity
- - For VOC, warm and cool temperatures and low humidity impact the value to rise.
+ - For VOC, warm and hot temperatures and low humidity impact the value to rise.
 
 ### Step 4
  - There was plenty of data for unhealthy events of AQI throughout the data and this caused the variety of reasons to be unpredictable.
